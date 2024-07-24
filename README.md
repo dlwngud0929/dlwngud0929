@@ -1,4 +1,4 @@
-![Profile Image](이미지의_URL)
+
 
 ## Hi! Im Juhyung
 
